@@ -1,1 +1,2 @@
 Hello World! First line.
+This is a second line in file1
